@@ -10,29 +10,29 @@
 
 ### NeetCode
 
-| # | Problem | Difficulty | Language | Category |
-|---|---------|------------|----------|----------|
-| 1 | [Contains Duplicate](Data%20Structures%20%26%20Algorithms/duplicate-integer/) | 🟢 Easy | Python | Arrays & Hashing |
-| 2 | [Valid Anagram](Data%20Structures%20%26%20Algorithms/is-anagram/) | 🟢 Easy | Python | Arrays & Hashing |
-| 3 | [Two Sum](Data%20Structures%20%26%20Algorithms/two-integer-sum/) | 🟢 Easy | Java | Arrays & Hashing |
-| 4 | [Group Anagrams](Data%20Structures%20%26%20Algorithms/anagram-groups/) | 🟡 Medium | Java | Arrays & Hashing |
-| 5 | [Top K Frequent Elements](Data%20Structures%20%26%20Algorithms/top-k-elements-in-list/) | 🟡 Medium | Java | Arrays & Hashing |
-| 6 | [Encode and Decode Strings](Data%20Structures%20%26%20Algorithms/string-encode-and-decode/) | 🟡 Medium | Java | Arrays & Hashing |
-| 7 | [Product of Array Except Self](Data%20Structures%20%26%20Algorithms/products-of-array-discluding-self/) | 🟡 Medium | Java | Arrays & Hashing |
-| 8 | [Valid Sudoku](Data%20Structures%20%26%20Algorithms/valid-sudoku/) | 🟡 Medium | Java | Arrays & Hashing |
-| 9 | [Longest Consecutive Sequence](Data%20Structures%20%26%20Algorithms/longest-consecutive-sequence/) | 🟡 Medium | Java | Arrays & Hashing |
-| 10 | [Valid Palindrome](Data%20Structures%20%26%20Algorithms/is-palindrome/) | 🟢 Easy | Java | Two Pointers |
-| 11 | [Two Sum II](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) | 🟡 Medium | Java | Two Pointers |
-| 12 | [3Sum](Data%20Structures%20%26%20Algorithms/three-integer-sum/) | 🟡 Medium | Java | Two Pointers |
-| 13 | [Valid Parentheses](Data%20Structures%20%26%20Algorithms/validate-parentheses/) | 🟢 Easy | Java | Stack |
-| 14 | [Min Stack](Data%20Structures%20%26%20Algorithms/minimum-stack/) | 🟡 Medium | Java | Stack |
-| 15 | [Evaluate Reverse Polish Notation](Data%20Structures%20%26%20Algorithms/evaluate-reverse-polish-notation/) | 🟡 Medium | Java | Stack |
-| 16 | [Daily Temperatures](Data%20Structures%20%26%20Algorithms/daily-temperatures/) | 🟡 Medium | Java | Stack |
-| 17 | [Binary Search](Data%20Structures%20%26%20Algorithms/binary-search/) | 🟢 Easy | Java | Binary Search |
-| 18 | [Best Time to Buy and Sell Stock](Data%20Structures%20%26%20Algorithms/buy-and-sell-crypto/) | 🟢 Easy | Java | Sliding Window |
-| 19 | [Reverse Linked List](Data%20Structures%20%26%20Algorithms/reverse-a-linked-list/) | 🟢 Easy | Java | Linked List |
+| # | Problem | Difficulty | Language | Category | Source |
+|---|---------|------------|----------|----------|--------|
+| 1 | [Contains Duplicate](DSA%20Practice/Arrays%20%26%20Hashing/ContainsDuplicate.py) | 🟢 Easy | Python | Arrays & Hashing | 📥 synced |
+| 2 | [Valid Anagram](DSA%20Practice/Arrays%20%26%20Hashing/ValidAnagram.py) | 🟢 Easy | Python | Arrays & Hashing | 📥 synced |
+| 3 | [Two Sum](DSA%20Practice/Arrays%20%26%20Hashing/TwoSum.java) | 🟢 Easy | Java | Arrays & Hashing | 📥 synced |
+| 4 | [Group Anagrams](DSA%20Practice/Arrays%20%26%20Hashing/GroupAnagrams.java) | 🟡 Medium | Java | Arrays & Hashing | 📥 synced |
+| 5 | [Top K Frequent Elements](DSA%20Practice/Arrays%20%26%20Hashing/TopKFrequent.java) | 🟡 Medium | Java | Arrays & Hashing | 📥 synced |
+| 6 | [Encode and Decode Strings](DSA%20Practice/Arrays%20%26%20Hashing/EncodeDecodeStrings.java) | 🟡 Medium | Java | Arrays & Hashing | ✍️ hand-written |
+| 7 | [Product of Array Except Self](DSA%20Practice/Arrays%20%26%20Hashing/ProductExceptSelf.java) | 🟡 Medium | Java | Arrays & Hashing | ✍️ hand-written |
+| 8 | [Valid Sudoku](DSA%20Practice/Arrays%20%26%20Hashing/ValidSudoku.java) | 🟡 Medium | Java | Arrays & Hashing | ✍️ hand-written |
+| 9 | [Longest Consecutive Sequence](DSA%20Practice/Arrays%20%26%20Hashing/LongestConsecutive.java) | 🟡 Medium | Java | Arrays & Hashing | ✍️ hand-written |
+| 10 | [Valid Palindrome](DSA%20Practice/Two%20Pointers/ValidPalindrome.java) | 🟢 Easy | Java | Two Pointers | ✍️ hand-written |
+| 11 | [Two Sum II](DSA%20Practice/Two%20Pointers/TwoSumII.java) | 🟡 Medium | Java | Two Pointers | ✍️ hand-written |
+| 12 | [3Sum](DSA%20Practice/Two%20Pointers/ThreeSum.java) | 🟡 Medium | Java | Two Pointers | ✍️ hand-written |
+| 13 | [Valid Parentheses](DSA%20Practice/Stack/ValidParentheses.java) | 🟢 Easy | Java | Stack | ✍️ hand-written |
+| 14 | [Min Stack](DSA%20Practice/Stack/MinStack.java) | 🟡 Medium | Java | Stack | ✍️ hand-written |
+| 15 | [Evaluate Reverse Polish Notation](DSA%20Practice/Stack/EvalRPN.java) | 🟡 Medium | Java | Stack | ✍️ hand-written |
+| 16 | [Daily Temperatures](DSA%20Practice/Stack/DailyTemperatures.java) | 🟡 Medium | Java | Stack | ✍️ hand-written |
+| 17 | [Binary Search](DSA%20Practice/Binary%20Search/BinarySearch.java) | 🟢 Easy | Java | Binary Search | ✍️ hand-written |
+| 18 | [Best Time to Buy and Sell Stock](DSA%20Practice/Sliding%20Window/BestTimeToBuySellStock.java) | 🟢 Easy | Java | Sliding Window | ✍️ hand-written |
+| 19 | [Reverse Linked List](DSA%20Practice/Linked%20List/ReverseLinkedList.java) | 🟢 Easy | Java | Linked List | ✍️ hand-written |
 
-**NeetCode: 19** · 🟢 Easy 8 · 🟡 Medium 11 · 🔴 Hard 0
+**NeetCode: 19** · 🟢 Easy 8 · 🟡 Medium 11 · 🔴 Hard 0 · 📥 5 synced · ✍️ 14 hand-written
 
 ### Kattis
 
@@ -63,26 +63,13 @@
 ## 🗂️ Repository Structure
 
 ```
-Data Structures & Algorithms/    # NeetCode, one folder per problem slug
-├── duplicate-integer/          # Contains Duplicate — HashSet
-├── is-anagram/                 # Valid Anagram — frequency map
-├── two-integer-sum/            # Two Sum — one-pass HashMap
-├── anagram-groups/             # Group Anagrams — char-count key
-├── top-k-elements-in-list/     # Top K Frequent — bucket sort
-├── string-encode-and-decode/   # Encode/Decode — length prefixing
-├── products-of-array-discluding-self/  # prefix x suffix products
-├── valid-sudoku/               # Valid Sudoku — row/col/box bitsets
-├── longest-consecutive-sequence/       # sequence starts only
-├── is-palindrome/              # Valid Palindrome — two pointers
-├── two-integer-sum-ii/         # Two Sum II — two pointers
-├── three-integer-sum/          # 3Sum — sort + two pointers
-├── validate-parentheses/       # Valid Parentheses — stack
-├── minimum-stack/              # Min Stack — parallel min stack
-├── evaluate-reverse-polish-notation/   # RPN — operand stack
-├── daily-temperatures/         # monotonic decreasing stack
-├── binary-search/              # Binary Search — overflow-safe mid
-├── buy-and-sell-crypto/        # Best Time to Buy/Sell — min so far
-└── reverse-a-linked-list/      # Reverse Linked List — iterative
+DSA Practice/                   # NeetCode roadmap, grouped by pattern
+├── Arrays & Hashing/           # 9 problems
+├── Two Pointers/               # 3
+├── Stack/                      # 4
+├── Binary Search/              # 1
+├── Sliding Window/             # 1
+└── Linked List/                # 1
 
 Kattis/                         # Kattis programming problems
 ├── Akcija.java
@@ -156,14 +143,9 @@ practice/                       # Extra competitive programming practice
 
 NeetCode solutions sync automatically from [NeetCode.io](https://neetcode.io) via GitHub integration — each accepted submission lands as its own file (`submission-{n}.{ext}`).
 
-Two file names are used inside each problem folder, and the distinction is deliberate:
+The Source column above marks which solutions are genuine synced submissions (📥) and which were written by hand to the same signature because the sync had not backfilled them (✍️).
 
-| File | Meaning |
-|------|---------|
-| `submission-{n}.{ext}` | A real accepted submission, synced from NeetCode. Reserved — nothing else is ever written under this name. |
-| `solution.{ext}` | Written by hand to the same signature, for a problem the sync has not backfilled yet. |
-
-Keeping them apart means the sync can backfill a genuine submission into any folder without overwriting anything, and both versions can sit side by side.
+Note: the integration writes to `Data Structures & Algorithms/<neetcode-slug>/submission-{n}.{ext}`. Since this repo is now organised by pattern instead, a future backfill will recreate that folder rather than updating the files here — merge anything it drops in, then delete the folder.
 
 Kattis has no such integration; those solutions are added by hand.
 
