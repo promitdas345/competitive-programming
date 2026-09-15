@@ -6,6 +6,10 @@
 
 ## 📊 Progress
 
+**15 solutions in this repo** — 5 from NeetCode, 10 from Kattis.
+
+### NeetCode
+
 | # | Problem | Difficulty | Language | Category |
 |---|---------|------------|----------|----------|
 | 1 | [Contains Duplicate](Data%20Structures%20%26%20Algorithms/duplicate-integer/) | 🟢 Easy | Python | Arrays & Hashing |
@@ -14,7 +18,31 @@
 | 4 | [Group Anagrams](Data%20Structures%20%26%20Algorithms/anagram-groups/) | 🟡 Medium | Java | Arrays & Hashing |
 | 5 | [Top K Frequent Elements](Data%20Structures%20%26%20Algorithms/top-k-elements-in-list/) | 🟡 Medium | Java | Arrays & Hashing |
 
-**Total Solved: 5** · **Easy: 3** · **Medium: 2** · **Hard: 0**
+**NeetCode: 5** · 🟢 Easy 3 · 🟡 Medium 2 · 🔴 Hard 0
+
+### Kattis
+
+| Problem | Difficulty | Language |
+|---------|------------|----------|
+| [Akcija](Kattis/Akcija.java) | 1.4 Easy | Java |
+| [Exact Change](Kattis/ExactChange.java) | 1.6 Easy | Java |
+| [What does the fox say?](Kattis/WhatDoesTheFoxSay.java) | 1.8 Easy | Java |
+| [Babelfish](Kattis/Babelfish.java) | 2.0 Easy | Java |
+| [Cooking Water](Kattis/CookingWater.py) | 2.0 Easy | Python |
+| [CD](Kattis/CD.java) | 2.1 Easy | Java |
+| [Single source shortest path](Kattis/SingleSourceShortestPath.java) | 2.1 Easy | Java |
+| [Counting Stars](Kattis/CountingStars.java) | 2.2 Easy | Java |
+| [Grid](Kattis/Grid.java) | 2.3 Easy | Java |
+| [Disastrous Downtime](Kattis/DisastrousDowntime.java) | 2.7 Easy | Java |
+
+**Kattis: 10** · 9 Java · 1 Python · difficulty 1.4 – 2.7
+
+### By language
+
+| Language | Solutions |
+|----------|-----------|
+| Java | 12 |
+| Python | 3 |
 
 ---
 
@@ -33,22 +61,22 @@ Data Structures & Algorithms/
 └── top-k-elements-in-list/     # Top K Frequent — Bucket sort
     └── submission-0.java
 
-practice/                       # Extra competitive programming practice
-├── hashmap.py                  # Custom HashMap implementation
-├── A_Twins.py                  # Codeforces — Twins (Greedy)
-└── helpfulMaths.py             # Codeforces — Helpful Maths (Counting sort)
-
 Kattis/                         # Kattis programming problems
 ├── Akcija.java
 ├── Babelfish.java
 ├── CD.java
+├── CookingWater.py
 ├── CountingStars.java
 ├── DisastrousDowntime.java
 ├── ExactChange.java
-├── WhatDoesTheFoxSay.java
 ├── Grid.java
 ├── SingleSourceShortestPath.java
-└── CookingWater.py
+└── WhatDoesTheFoxSay.java
+
+practice/                       # Extra competitive programming practice
+├── hashmap.py                  # Custom HashMap implementation
+├── A_Twins.py                  # Codeforces — Twins (Greedy)
+└── helpfulMaths.py             # Codeforces — Helpful Maths (Counting sort)
 ```
 
 ---
@@ -69,26 +97,11 @@ Kattis/                         # Kattis programming problems
 
 ---
 
-## 🐱 Kattis Solutions
-
-| Problem | Language |
-|---------|----------|
-| [Akcija](Kattis/Akcija.java) | Java |
-| [Babelfish](Kattis/Babelfish.java) | Java |
-| [CD](Kattis/CD.java) | Java |
-| [Counting Stars](Kattis/CountingStars.java) | Java |
-| [Disastrous Downtime](Kattis/DisastrousDowntime.java) | Java |
-| [Exact Change](Kattis/ExactChange.java) | Java |
-| [What does the fox say?](Kattis/WhatDoesTheFoxSay.java) | Java |
-| [Grid](Kattis/Grid.java) | Java |
-| [Single source shortest path](Kattis/SingleSourceShortestPath.java) | Java |
-| [Cooking Water](Kattis/CookingWater.py) | Python |
-
----
-
 ## ⚙️ Sync
 
-Solutions are synced automatically from [NeetCode.io](https://neetcode.io) via GitHub integration. Each accepted submission is pushed as a separate file (`submission-{n}.{ext}`).
+NeetCode solutions sync automatically from [NeetCode.io](https://neetcode.io) via GitHub integration — each accepted submission lands as its own file (`submission-{n}.{ext}`).
+
+Kattis has no such integration; those solutions are added by hand.
 
 ---
 
