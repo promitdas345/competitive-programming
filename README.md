@@ -1,6 +1,6 @@
-# 🧠 NeetCode Solutions — Promit Das
+# 🧠 NeetCode & Kattis Solutions — Promit Das
 
-> My solutions to [NeetCode.io](https://neetcode.io) problems, organized by topic and difficulty.
+> My solutions to [NeetCode.io](https://neetcode.io) and [Kattis](https://open.kattis.com) problems.
 
 ---
 
@@ -37,6 +37,18 @@ practice/                       # Extra competitive programming practice
 ├── hashmap.py                  # Custom HashMap implementation
 ├── A_Twins.py                  # Codeforces — Twins (Greedy)
 └── helpfulMaths.py             # Codeforces — Helpful Maths (Counting sort)
+
+Kattis/                         # Kattis programming problems
+├── Akcija.java
+├── Babelfish.java
+├── CD.java
+├── CountingStars.java
+├── DisastrousDowntime.java
+├── ExactChange.java
+├── WhatDoesTheFoxSay.java
+├── Grid.java
+├── SingleSourceShortestPath.java
+└── CookingWater.py
 ```
 
 ---
@@ -54,6 +66,23 @@ practice/                       # Extra competitive programming practice
 | Top K Frequent | Bucket sort by frequency | O(n) | O(n) |
 
 *\*O(1) since the alphabet size is fixed at 26.*
+
+---
+
+## 🐱 Kattis Solutions
+
+| Problem | Language |
+|---------|----------|
+| [Akcija](Kattis/Akcija.java) | Java |
+| [Babelfish](Kattis/Babelfish.java) | Java |
+| [CD](Kattis/CD.java) | Java |
+| [Counting Stars](Kattis/CountingStars.java) | Java |
+| [Disastrous Downtime](Kattis/DisastrousDowntime.java) | Java |
+| [Exact Change](Kattis/ExactChange.java) | Java |
+| [What does the fox say?](Kattis/WhatDoesTheFoxSay.java) | Java |
+| [Grid](Kattis/Grid.java) | Java |
+| [Single source shortest path](Kattis/SingleSourceShortestPath.java) | Java |
+| [Cooking Water](Kattis/CookingWater.py) | Python |
 
 ---
 
