@@ -156,9 +156,16 @@ practice/                       # Extra competitive programming practice
 
 NeetCode solutions sync automatically from [NeetCode.io](https://neetcode.io) via GitHub integration — each accepted submission lands as its own file (`submission-{n}.{ext}`).
 
-Kattis has no such integration; those solutions are added by hand.
+Two file names are used inside each problem folder, and the distinction is deliberate:
 
-Where the sync has not backfilled a solved problem, the solution here was written by hand to the same signature rather than copied from the accepted submission.
+| File | Meaning |
+|------|---------|
+| `submission-{n}.{ext}` | A real accepted submission, synced from NeetCode. Reserved — nothing else is ever written under this name. |
+| `solution.{ext}` | Written by hand to the same signature, for a problem the sync has not backfilled yet. |
+
+Keeping them apart means the sync can backfill a genuine submission into any folder without overwriting anything, and both versions can sit side by side.
+
+Kattis has no such integration; those solutions are added by hand.
 
 ---
 
